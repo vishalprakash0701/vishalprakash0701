@@ -1,54 +1,53 @@
-# Hi, I'm Vishal Prakash 👋
+<h1 align="center">Hi, I'm Vishal Prakash 👋</h1>
 
-### MCA (Data Science) Student | Python | SQL | Data Analytics | Java
+<h3 align="center">
+MCA (Data Science) Student • Data Analytics • Python • SQL • Java
+</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/vishalprakash0701">
-    <img src="https://img.shields.io/badge/GitHub-vishalprakash0701-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/vishal-prakash-1abb9b285">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Prakash-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vishalprakash0701@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Profile
 
-I'm an **MCA (Data Science) student at MIT-ADT University, Pune**, with a strong interest in **Data Science, Data Analytics, Software Development, and Database Management**.
+I am an **MCA (Data Science) student at MIT-ADT University, Pune**, interested in building practical solutions through **data, programming, databases, and software development**.
 
-I enjoy turning data and ideas into practical solutions through programming, analysis, visualization, and application design.
+My current focus is on developing stronger skills in **Python, SQL, Java, data analysis, statistical analysis, database management, and data visualization**, while also exploring UI/UX and product design.
 
-* 🎓 MCA — Data Science, MIT-ADT University, Pune
-* 📊 Interested in **Data Science & Data Analytics**
-* 🐍 Working with **Python & SQL**
-* ☕ Developing with **Java & Object-Oriented Programming**
-* 🗄️ Working with **MySQL & database management**
-* 📈 Interested in **data visualization and business insights**
-* 🎨 Experience with **UI/UX design, Figma & prototyping**
-* 🧠 Strong interest in analytical thinking and problem solving
-* 🚀 Continuously learning and building projects
+> **Learn continuously. Build practically. Solve problems with data.**
 
 ---
 
-## 🛠️ Technical Skills
+## 🧩 Core Skills
 
-### 💻 Programming
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-</p>
+### Programming
 
-### 📊 Data Science & Analytics
+* Python
+* Java
+* C++
+* JavaScript
+* PHP
+* Object-Oriented Programming
 
-<p>
-<img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
+</td>
+
+<td width="50%" valign="top">
+
+### Data & Analytics
 
 * Data Analysis
 * Statistical Analysis
@@ -57,64 +56,83 @@ I enjoy turning data and ideas into practical solutions through programming, ana
 * Business Insights
 * Data Cleaning
 
-### 🗄️ Database
+</td>
+</tr>
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
+<tr>
+<td width="50%" valign="top">
 
-* Database Structures & Management
-* SQL for Data Science
+### Database
+
+* SQL
+* MySQL
+* Database Management
+* Database Structures
 * Relational Database Concepts
 
-### 🎨 UI/UX & Design
+</td>
+
+<td width="50%" valign="top">
+
+### Design
+
+* Figma
+* Adobe XD
+* User Research
+* Wireframing
+* Prototyping
+* Usability Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technology Stack
 
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
 </p>
 
-* User Research
-* Wireframing
-* Prototyping
-* User Journey Mapping
-* Usability Testing
+---
+
+## 🚀 Selected Projects
+
+### 🍔 BiteRush
+
+**Food Delivery App — UI/UX Design Project**
+
+A food delivery application prototype designed around user research, meal customization, usability, and the overall delivery experience.
+
+**Project Focus**
+
+`User Research` • `Wireframing` • `Prototyping` • `User Journey Mapping` • `Usability Testing`
+
+**Tools**
+
+`Figma` • `Adobe XD`
 
 ---
 
-## 🚀 Featured Projects
+### 📊 HAPPY Store
 
-### 🍔 BiteRush — Food Delivery App UI/UX
+**Data Analysis Project**
 
-A food delivery application prototype developed as a **UI/UX project**, focusing on user research, meal customization, and improving the overall food delivery experience.
+A data-analysis project focused on preparing, analyzing, and visualizing store data to derive meaningful business insights.
 
-**Key Areas**
+**Project Focus**
 
-* User Research
-* Wireframing
-* UI/UX Design
-* User Journey Mapping
-* Prototyping
-* Survey & Interview Analysis
-* Usability Testing
-
-**Tools:** Figma • Adobe XD
-
----
-
-### 📊 HAPPY Store — Data Analysis
-
-A data-analysis project involving **data cleaning, pivot-based analysis, visualization, and business-oriented insights**.
-
-**Focus Areas**
-
-* Data Cleaning
-* Data Analysis
-* Pivot Tables
-* Data Visualization
-* Graphical Analysis
-* Business Insights
+`Data Cleaning` • `Pivot Analysis` • `Data Visualization` • `Graphical Analysis` • `Business Insights`
 
 ---
 
@@ -136,21 +154,23 @@ Himalayan International School, Patna
 
 ## 📜 Certifications
 
-* **Database and SQL for Data Science with Python** — IBM
-* **Statistics for Data Science with Python** — IBM
-* **Python Data Structures** — University of Michigan
-* **Introduction to Java** — LearnQuest
-* **Introduction to Object-Oriented Programming with Java** — LearnQuest
-* **Object-Oriented Hierarchies in Java** — LearnQuest
-* **Database Structures and Management with MySQL** — Meta
-* **Introduction to Ethical Hacking Principles** — SkillUp
-* **Introduction to Networking and Storage** — IBM
-* **Graphics Design & Logo Design** — Metagrafix Pvt. Ltd.
-* **Blockchain & Cyber Security** — Cordroid Hub Pvt. Ltd.
+| Certification                                         | Issuer                 |
+| ----------------------------------------------------- | ---------------------- |
+| Database and SQL for Data Science with Python         | IBM                    |
+| Statistics for Data Science with Python               | IBM                    |
+| Python Data Structures                                | University of Michigan |
+| Introduction to Java                                  | LearnQuest             |
+| Introduction to Object-Oriented Programming with Java | LearnQuest             |
+| Object-Oriented Hierarchies in Java                   | LearnQuest             |
+| Database Structures and Management with MySQL         | Meta                   |
+| Introduction to Ethical Hacking Principles            | SkillUp                |
+| Introduction to Networking and Storage                | IBM                    |
+| Graphics Design & Logo Design                         | Metagrafix Pvt. Ltd.   |
+| Blockchain & Cyber Security                           | Cordroid Hub Pvt. Ltd. |
 
 ---
 
-## 📚 Currently Learning
+## 📚 Current Learning Focus
 
 ```text
 Data Science
@@ -166,76 +186,47 @@ Software Development
 ├── Web Development
 └── Database Management
 
-UI/UX
-├── Figma
+Product & UI/UX
+├── User Research
 ├── Wireframing
 ├── Prototyping
-└── User Research
+└── Usability Testing
 ```
 
 ---
 
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-* 📊 Data Analytics
-* 🤖 Data Science
-* 🐍 Python Development
-* 🗄️ SQL & Database Development
-* ☕ Java Development
-* 💻 Software Development
-* 📈 Business Intelligence
-* 🎨 UI/UX & Product Design
-
----
-
-## 📈 GitHub
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalprakash0701&show_icons=true&hide_border=true&rank_icon=github" alt="Vishal's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalprakash0701&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalprakash0701&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalprakash0701&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🎯 Areas of Interest
+
+**Data Science** • **Data Analytics** • **Python Development** • **SQL & Databases** • **Java Development** • **Software Development** • **Business Intelligence** • **UI/UX**
+
+---
+
+## 🤝 Connect With Me
 
 <p>
 <a href="mailto:vishalprakash0701@gmail.com">
 <img src="https://img.shields.io/badge/Email-vishalprakash0701%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/vishal-prakash-1abb9b285">
 <img src="https://img.shields.io/badge/LinkedIn-Vishal%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vishalprakash0701">
-<img src="https://img.shields.io/badge/GitHub-vishalprakash0701-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-### 💡 "Learn. Build. Analyze. Improve."
+<p align="center">
+  <i>Building skills, exploring data, and turning ideas into practical solutions.</i>
+</p>
 
-Thanks for visiting my profile! 🚀
-
-
-<!--
-**vishalprakash0701/vishalprakash0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
